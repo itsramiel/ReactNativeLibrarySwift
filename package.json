@@ -1,7 +1,7 @@
 {
   "name": "react-native-reproducable-module",
   "version": "0.1.0",
-  "description": " ",
+  "description": "repro",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
